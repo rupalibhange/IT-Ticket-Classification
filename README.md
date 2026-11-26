@@ -1,4 +1,3 @@
-
 # IT Ticket Classification Using Python and Machine Learning
 
 ## Project Overview
@@ -77,3 +76,5 @@ streamlit run app.py
 The application displays predicted ticket categories and priorities along with interactive charts, model evaluation results, dataset exploration, and saved prediction history.
 ## Conclusion
 This project demonstrates how Machine Learning and NLP can help automate IT support ticket classification and improve ticket analysis through an interactive Streamlit dashboard.
+
+
